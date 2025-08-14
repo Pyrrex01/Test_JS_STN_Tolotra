@@ -1,0 +1,147 @@
+{
+  "name": "Test_JavaScript_API",
+  "path": "c:\\Users\\pnm\\Documents\\Test_JavaScript_API",
+  "type": "directory",
+  "children": [
+    {
+      "name": "user_story1",
+      "type": "directory",
+      "path": "c:\\Users\\pnm\\Documents\\Test_JavaScript_API\\user_story1",
+      "children": [
+        {
+          "name": "index.html",
+          "type": "file",
+          "path": "c:\\Users\\pnm\\Documents\\Test_JavaScript_API\\user_story1\\index.html",
+          "icon": "🌐"
+        },
+        {
+          "name": "script.js",
+          "type": "file",
+          "path": "c:\\Users\\pnm\\Documents\\Test_JavaScript_API\\user_story1\\script.js",
+          "icon": "📄"
+        },
+        {
+          "name": "style.css",
+          "type": "file",
+          "path": "c:\\Users\\pnm\\Documents\\Test_JavaScript_API\\user_story1\\style.css",
+          "icon": "🎨"
+        }
+      ],
+      "icon": "📁"
+    },
+    {
+      "name": "user_story2",
+      "type": "directory",
+      "path": "c:\\Users\\pnm\\Documents\\Test_JavaScript_API\\user_story2",
+      "children": [
+        {
+          "name": "Test_JavaScript_API.code-workspace",
+          "type": "file",
+          "path": "c:\\Users\\pnm\\Documents\\Test_JavaScript_API\\user_story2\\Test_JavaScript_API.code-workspace",
+          "icon": "📄"
+        },
+        {
+          "name": "index.html",
+          "type": "file",
+          "path": "c:\\Users\\pnm\\Documents\\Test_JavaScript_API\\user_story2\\index.html",
+          "icon": "🌐"
+        },
+        {
+          "name": "script.js",
+          "type": "file",
+          "path": "c:\\Users\\pnm\\Documents\\Test_JavaScript_API\\user_story2\\script.js",
+          "icon": "📄"
+        },
+        {
+          "name": "style.css",
+          "type": "file",
+          "path": "c:\\Users\\pnm\\Documents\\Test_JavaScript_API\\user_story2\\style.css",
+          "icon": "🎨"
+        }
+      ],
+      "icon": "📁"
+    },
+    {
+      "name": "user_story3",
+      "type": "directory",
+      "path": "c:\\Users\\pnm\\Documents\\Test_JavaScript_API\\user_story3",
+      "children": [
+        {
+          "name": "script.js",
+          "type": "file",
+          "path": "c:\\Users\\pnm\\Documents\\Test_JavaScript_API\\user_story3\\script.js",
+          "icon": "📄"
+        },
+        {
+          "name": "style.css",
+          "type": "file",
+          "path": "c:\\Users\\pnm\\Documents\\Test_JavaScript_API\\user_story3\\style.css",
+          "icon": "🎨"
+        },
+        {
+          "name": "us3.html",
+          "type": "file",
+          "path": "c:\\Users\\pnm\\Documents\\Test_JavaScript_API\\user_story3\\us3.html",
+          "icon": "🌐"
+        }
+      ],
+      "icon": "📁"
+    },
+    {
+      "name": "user_story4",
+      "type": "directory",
+      "path": "c:\\Users\\pnm\\Documents\\Test_JavaScript_API\\user_story4",
+      "children": [
+        {
+          "name": "index.html",
+          "type": "file",
+          "path": "c:\\Users\\pnm\\Documents\\Test_JavaScript_API\\user_story4\\index.html",
+          "icon": "🌐"
+        },
+        {
+          "name": "script.js",
+          "type": "file",
+          "path": "c:\\Users\\pnm\\Documents\\Test_JavaScript_API\\user_story4\\script.js",
+          "icon": "📄"
+        },
+        {
+          "name": "style.css",
+          "type": "file",
+          "path": "c:\\Users\\pnm\\Documents\\Test_JavaScript_API\\user_story4\\style.css",
+          "icon": "🎨"
+        }
+      ],
+      "icon": "📁"
+    },
+    {
+      "name": "user_story5",
+      "type": "directory",
+      "path": "c:\\Users\\pnm\\Documents\\Test_JavaScript_API\\user_story5",
+      "children": [
+        {
+          "name": "index.html",
+          "type": "file",
+          "path": "c:\\Users\\pnm\\Documents\\Test_JavaScript_API\\user_story5\\index.html",
+          "icon": "🌐"
+        },
+        {
+          "name": "script.js",
+          "type": "file",
+          "path": "c:\\Users\\pnm\\Documents\\Test_JavaScript_API\\user_story5\\script.js",
+          "icon": "📄"
+        },
+        {
+          "name": "style.css",
+          "type": "file",
+          "path": "c:\\Users\\pnm\\Documents\\Test_JavaScript_API\\user_story5\\style.css",
+          "icon": "🎨"
+        }
+      ],
+      "icon": "📁"
+    }
+  ],
+  "generated": "2025-08-14T16:43:43.102Z",
+  "generator": "FileTree Pro Extension",
+  "note": "Common build folders, dependencies, and temporary files are automatically excluded.",
+  "showIcons": true
+}
