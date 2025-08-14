@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8" />
+  <title>Messagerie — Création de message</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+  <header>
+    <h1>📨 Messagerie — Créer un message</h1>
+  </header>
+
+  <main>
+   
+    <section class="card section">
+      <h2>Créer un nouveau message</h2>
+      <form id="form" autocomplete="off" novalidate>
+        <div>
+          <textarea id="content" name="content" placeholder="Écrivez votre message..." maxlength="500"></textarea>
+          <div class="hint">Raccourci : Ctrl/Cmd + Enter pour envoyer</div>
+          <div id="feedback" class=""></div>
+        </div>
+        <div>
+          <button id="submitBtn" type="submit">Envoyer</button>
+        </div>
+      </form>
+      <div class="section" style="padding-left:0; padding-right:0;">
+        <h2 style="padding-left:16px; padding-right:16px;">Messages</h2>
+        <ul id="messages" class="list" aria-live="polite"></ul>
+      </div>
+    </section>
+
+  
+    <section class="card section">
+      <h2>Détails du message</h2>
+      <div id="details" class="empty">Sélectionnez un message pour voir les détails…</div>
+    </section>
+  </main>
+
+ <script src="./script.js"></script>
+</body>
+</html>
